@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: MetaPixel
+logo: /static/logo.jpeg
+social: <a href="https://github.com/metapixel-art" target="_blank"><img src="/static/github.png"/></a> &nbsp; <a href="https://twitter.com/metapixel_art" target="_blank"><img src="/static/twitter.png"/></a> &nbsp; <a href="mailto:contact@metapixel.art"><img src="/static/email.png"/></a> &nbsp;
